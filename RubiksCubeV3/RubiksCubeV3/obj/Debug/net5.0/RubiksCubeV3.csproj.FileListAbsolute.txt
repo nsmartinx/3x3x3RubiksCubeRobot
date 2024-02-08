@@ -1,0 +1,16 @@
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\bin\Debug\net5.0\RubiksCubeV3.exe
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\bin\Debug\net5.0\RubiksCubeV3.deps.json
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\bin\Debug\net5.0\RubiksCubeV3.runtimeconfig.json
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\bin\Debug\net5.0\RubiksCubeV3.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\bin\Debug\net5.0\RubiksCubeV3.dll
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\bin\Debug\net5.0\RubiksCubeV3.pdb
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.csproj.AssemblyReference.cache
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.dll
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\refint\RubiksCubeV3.dll
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.pdb
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\RubiksCubeV3.genruntimeconfig.cache
+C:\Users\nsmar\source\repos\RubiksCubeV3\RubiksCubeV3\obj\Debug\net5.0\ref\RubiksCubeV3.dll

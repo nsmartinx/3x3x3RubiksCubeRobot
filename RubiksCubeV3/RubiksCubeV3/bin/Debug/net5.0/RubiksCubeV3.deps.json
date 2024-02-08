@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RubiksCubeV3/1.0.0": {
+        "runtime": {
+          "RubiksCubeV3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RubiksCubeV3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
