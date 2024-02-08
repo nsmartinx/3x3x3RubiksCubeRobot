@@ -1,0 +1,13 @@
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\bin\Debug\netcoreapp3.1\Rubik's Cube Test.exe
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\bin\Debug\netcoreapp3.1\Rubik's Cube Test.deps.json
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\bin\Debug\netcoreapp3.1\Rubik's Cube Test.runtimeconfig.json
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\bin\Debug\netcoreapp3.1\Rubik's Cube Test.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\bin\Debug\netcoreapp3.1\Rubik's Cube Test.dll
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\bin\Debug\netcoreapp3.1\Rubik's Cube Test.pdb
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.csprojAssemblyReference.cache
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.dll
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.pdb
+C:\Users\nsmar\source\repos\Rubik's Cube Test\Rubik's Cube Test\obj\Debug\netcoreapp3.1\Rubik's Cube Test.genruntimeconfig.cache
