@@ -1,0 +1,13 @@
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\bin\Debug\netcoreapp3.1\Rubik's Cube Solver.exe
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\bin\Debug\netcoreapp3.1\Rubik's Cube Solver.deps.json
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\bin\Debug\netcoreapp3.1\Rubik's Cube Solver.runtimeconfig.json
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\bin\Debug\netcoreapp3.1\Rubik's Cube Solver.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\bin\Debug\netcoreapp3.1\Rubik's Cube Solver.dll
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\bin\Debug\netcoreapp3.1\Rubik's Cube Solver.pdb
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.csprojAssemblyReference.cache
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.dll
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.pdb
+C:\Users\nsmar\source\repos\Rubik's Cube Solver\Rubik's Cube Solver\obj\Debug\netcoreapp3.1\Rubik's Cube Solver.genruntimeconfig.cache
