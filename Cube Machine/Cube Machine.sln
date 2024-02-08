@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube Machine", "Cube Machine\Cube Machine.csproj", "{9C6A21C3-2825-4F4B-977E-DE29B72729FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6A21C3-2825-4F4B-977E-DE29B72729FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6A21C3-2825-4F4B-977E-DE29B72729FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6A21C3-2825-4F4B-977E-DE29B72729FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6A21C3-2825-4F4B-977E-DE29B72729FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A199634-D41F-4DC5-BF29-76798F6DFDAC}
+	EndGlobalSection
+EndGlobal

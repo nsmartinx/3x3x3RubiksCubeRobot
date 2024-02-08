@@ -1,0 +1,24 @@
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Cube Machine.exe.config
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Cube Machine.exe
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Cube Machine.pdb
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\UsbWrapper.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Usc.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Sequencer.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Bytecode.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\UsbWrapper.pdb
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Usc.pdb
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\Sequencer.pdb
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube Machine.csprojAssemblyReference.cache
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube_Machine.Form1.resources
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube_Machine.Properties.Resources.resources
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube Machine.csproj.GenerateResource.cache
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube Machine.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube Machine.csproj.CopyComplete
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube Machine.exe
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\obj\Debug\Cube Machine.pdb
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\AForge.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\AForge.Video.dll
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\AForge.xml
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\AForge.Video.xml
+C:\Users\nsmar\source\repos\Cube Machine\Cube Machine\bin\Debug\AForge.Video.DirectShow.xml
