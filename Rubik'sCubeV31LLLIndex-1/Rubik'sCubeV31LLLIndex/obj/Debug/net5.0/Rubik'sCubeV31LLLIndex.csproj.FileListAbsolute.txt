@@ -1,0 +1,16 @@
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\bin\Debug\net5.0\Rubik'sCubeV31LLLIndex.exe
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\bin\Debug\net5.0\Rubik'sCubeV31LLLIndex.deps.json
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\bin\Debug\net5.0\Rubik'sCubeV31LLLIndex.runtimeconfig.json
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\bin\Debug\net5.0\Rubik'sCubeV31LLLIndex.runtimeconfig.dev.json
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\bin\Debug\net5.0\Rubik'sCubeV31LLLIndex.dll
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\bin\Debug\net5.0\Rubik'sCubeV31LLLIndex.pdb
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.csproj.AssemblyReference.cache
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.AssemblyInfoInputs.cache
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.AssemblyInfo.cs
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.csproj.CoreCompileInputs.cache
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.dll
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\refint\Rubik'sCubeV31LLLIndex.dll
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.pdb
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\Rubik'sCubeV31LLLIndex.genruntimeconfig.cache
+C:\Users\nsmar\source\repos\Rubik'sCubeV31LLLIndex\Rubik'sCubeV31LLLIndex\obj\Debug\net5.0\ref\Rubik'sCubeV31LLLIndex.dll
