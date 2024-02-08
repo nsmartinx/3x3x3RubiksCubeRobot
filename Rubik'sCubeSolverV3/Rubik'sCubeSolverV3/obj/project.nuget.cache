@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pnenEd2XayCEJAe6fSYT8THJ/9TeoBA7JAmd7yLLGjKjOMy0PRLzfNg1HoIZMAFh5nagrOnSxjKBmISqpYONyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nsmar\\source\\repos\\Rubik'sCubeSolverV3\\Rubik'sCubeSolverV3\\Rubik'sCubeSolverV3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nsmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
